@@ -1,0 +1,24 @@
+img {
+    width: 20%;
+    margin-left: 20%
+}
+
+footer {
+display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Adjust the column width as needed */
+  grid-gap: 10px; /* Adjust the gap size as needed */
+
+  font-size: 10%;
+
+}
+
+footer ul {
+    list-style: none;
+    text-decoration: none
+}
+
+
+
+footer a {
+    text-decoration-line: none
+}
